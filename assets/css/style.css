@@ -1,0 +1,171 @@
+* {
+ /*   width: 80%;*/
+    color: #777777; 
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    letter-spacing: 1px;
+}
+
+header {
+    background: #ffffff;
+    border-bottom: 3px solid #cccccc;
+    float: left;
+    width: 100%;
+    height: 92px;
+}
+
+h1 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+#name {
+    background: #4aaaa5;
+    width: 270px;     
+    padding-bottom: 20px;
+    position: fixed;
+    text-align: center;
+    left: 240px;
+    float: left;
+    color: white;
+}
+
+#links {
+    float: right;
+    height: 20px;
+}
+
+#bord {
+    border-right: solid 2px #cccccc;
+    border-left: solid 2px #cccccc;
+}
+ul {
+    float: right;
+    padding-right: 240px;
+    padding-top: 18px;
+    color: #777777;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: right;
+    color: #777777; 
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+body {
+	/*background: #ffffff;*/
+    background-image: url("concrete_seamless.png");
+    margin: 0 auto;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif; 
+}
+
+#main {
+    
+    width: 960px;
+    margin: 0 auto;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+img {
+    float: left;
+}
+
+#about-me {
+    width: 650px;
+    background: #ffffff;
+    float: left;
+    z-index: 1;
+    position: relative;
+    top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 2px #dddddd solid;
+}
+
+#white {
+
+}
+#stac {
+    margin-top: 4px;
+    margin-left: 3px;
+}
+
+#me {
+    color: #4aaaa5;
+    border-bottom: solid 3px #cccccc;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h2 {
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: 80%;
+    margin: 0 auto;
+    font-size: 20px;
+    color: #4aaaa5;
+    text-align: center;
+    border-bottom: 2px solid #cccccc;
+}
+
+#con {
+    width: 240px;
+    background: #ffffff;
+    float: left;
+    z-index: 1;
+    position: relative;
+    top: 40px;
+    left: 40px;
+    border: 2px #dddddd solid;
+}
+
+
+#footer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #666666;
+  text-align: center; 
+  z-index: 3; 
+  border-top: #4aaaa5 10px solid;
+}
+
+footer {
+    color: #dddddd;
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+
+#pic {
+    float: left;
+    margin-right: 20px;
+}
+
+.cat{
+    width: 260px;
+    height: 200px;
+    margin: 20px;
+    border: 10px white solid;
+}
+
+p {
+    line-height: 2;
+}
+
+ {
+    padding-bottom: 10px;
+}
+
+/*#bacon {
+    float: left;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    margin margin-top: -10px;
+}*/
